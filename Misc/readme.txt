@@ -1,0 +1,1 @@
+I will store miscellaneous code in this folder. Small incomplete projects, or test code.

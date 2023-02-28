@@ -1,0 +1,1 @@
+I will store larger completed projects in this folder meant as demonstrations of my skill
